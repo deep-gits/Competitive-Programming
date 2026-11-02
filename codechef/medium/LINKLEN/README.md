@@ -84,11 +84,11 @@ Output
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-02T15:49:47.671Z  
+**Submitted:** 2026-11-02T15:50:48.906Z  
 
 ```java
 public static int getLength(Node head) {
-     int count = 0;
+        int count = 0;
         Node curr = head;
         while (curr != null) {
             count++;
