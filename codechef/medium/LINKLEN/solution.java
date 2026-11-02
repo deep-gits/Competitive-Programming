@@ -1,5 +1,5 @@
 public static int getLength(Node head) {
-     int count = 0;
+        int count = 0;
         Node curr = head;
         while (curr != null) {
             count++;
