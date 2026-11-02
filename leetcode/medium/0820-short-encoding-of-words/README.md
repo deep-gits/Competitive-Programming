@@ -47,8 +47,8 @@ Explanation: A valid encoding would be s = "t#" and indices = [0].
 
 **Language:** Java  
 **Runtime:** 22 ms (beats 22.63%)  
-**Memory:** 46.7 MB (beats 82.72%)  
-**Submitted:** 2026-11-02T15:43:01.008Z  
+**Memory:** 46.9 MB (beats 63.79%)  
+**Submitted:** 2026-11-02T15:43:33.976Z  
 
 ```java
 import java.util.*;
